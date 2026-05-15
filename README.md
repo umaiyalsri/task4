@@ -21,3 +21,6 @@ Areas like Mattuthavani and Bibikulam showed strong business expansion potential
 - Excel dataset
 - Word report
 - Map screenshots
+
+## Map
+https://www.google.com/maps/d/u/0/edit?mid=1BWzS1yRLPToyVtDkJF0DjaLJxQWttYo&usp=sharing
