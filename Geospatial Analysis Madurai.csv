@@ -1,0 +1,36 @@
+﻿Area,Latitude,Longitude,Existing Coffee Shops,Population,Sales Demand,Opportunity Score,Expansion Priority
+Anna Nagar,9.9178,78.1481,7,250000,High,31250.00,Medium
+KK Nagar,9.9204,78.1198,5,180000,Medium,30000.00,Medium
+Mattuthavani,9.95,78.167,2,300000,High,100000.00,Very High
+Thirunagar,9.884,78.082,1,220000,High,110000.00,Very High
+Simmakkal,9.9252,78.1195,8,150000,Medium,16666.67,Medium
+Goripalayam,9.9345,78.1302,4,210000,Medium,42000.00,Medium
+Tallakulam,9.9388,78.1382,3,240000,High,60000.00,High
+Villapuram,9.8977,78.121,1,260000,High,130000.00,Very High
+Palanganatham,9.905,78.126,6,170000,Medium,24285.71,Medium
+Bibikulam,9.944,78.131,2,280000,High,93333.33,Very High
+Arapalayam,9.932,78.104,5,200000,Medium,33333.33,Medium
+Periyar Bus Stand,9.9195,78.119,7,230000,High,28750.00,Medium
+Teppakulam,9.9125,78.145,3,190000,Medium,47500.00,Medium
+Jaihindpuram,9.9072,78.11,2,210000,High,70000.00,High
+Munichalai,9.914,78.1135,4,175000,Medium,35000.00,Medium
+Sellur,9.9395,78.1088,2,245000,High,81666.67,Very High
+Narimedu,9.931,78.1365,3,215000,Medium,53750.00,High
+Pasumalai,9.8822,78.1285,1,225000,High,112500.00,Very High
+Avaniyapuram,9.8735,78.118,2,255000,High,85000.00,Very High
+Alanganallur,10.0465,78.0905,1,140000,Medium,70000.00,High
+Othakadai,9.9965,78.176,1,210000,High,105000.00,Very High
+Madakulam,9.8895,78.1015,2,200000,Medium,66666.67,High
+Ellis Nagar,9.9085,78.101,4,165000,Medium,33000.00,Medium
+Kalavasal,9.916,78.0965,5,185000,Medium,30833.33,Medium
+Kochadai,9.9142,78.083,1,235000,High,117500.00,Very High
+Anuppanadi,9.8988,78.1435,2,220000,High,73333.33,High
+Vandiyur,9.919,78.1512,3,240000,High,60000.00,High
+Iyer Bungalow,9.9602,78.134,2,195000,Medium,65000.00,High
+Koodal Nagar,9.9685,78.1032,1,260000,High,130000.00,Very High
+Pudur,9.9492,78.1455,3,230000,High,57500.00,High
+,,,,,,,
+,,,,,,,
+,,,,,Sales Demand,Count,
+,,,,,High,17,
+,,,,,Medium,13,
